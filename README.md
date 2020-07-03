@@ -1,4 +1,4 @@
-# Project 1: Spotify EDA and Multiple Linear Regressions
+# [Project 1: Spotify EDA and Multiple Linear Regressions](htps://github.com/lblake09/Spotify-EDA-Regressions)
 
 
 In this project I cleaned, visualized, and used linear regression
