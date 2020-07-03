@@ -1,6 +1,5 @@
-# Larce_Portfolio
-data analyst/science portfolio
-Project 1: Spotify EDA and Multiple Linear Regressions
+# Project 1: Spotify EDA and Multiple Linear Regressions
+
 
 In this project I cleaned, visualized, and used linear regression
 model to see if there is any correlation between a songs popularity
