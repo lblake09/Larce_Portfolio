@@ -1,8 +1,8 @@
-# [Project 1: Spotify EDA and Multiple Linear Regressions](https://github.com/lblake09/Spotify-EDA-Regressions.git)
+# [Project 1: Spotify EDA and Machine Learning Models](https://github.com/lblake09/Spotify-EDA-Regressions.git)
 
 
-In this project I cleaned, visualized, and used multiple linear regression
-models to see if there is any correlation between a songs popularity
+In this project I cleaned, visualized, and used machine learning algorithms
+to see if there is any correlation between a songs popularity
 and its Spotify’s song metrics to have a better understanding of this
 dataset. I also visualized each artists by gender every year from 2010-2019. 
 
